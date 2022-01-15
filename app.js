@@ -90,7 +90,7 @@ function Run() {
       //document.getElementById("audio").play();
       //document.getElementById("box").innerHTML ="";
       
-      audio.volume=0.5;
+      audio.volume=0.2;
       audio.play();
       shells.splice(ix, 1);
     }
