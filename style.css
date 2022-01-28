@@ -12,7 +12,7 @@
   color: var(--color-white);
 }
 body {
-  background: #ad1d33;
+  background: url(bg.jpg);       /*   #ad1d33; */
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center center;
